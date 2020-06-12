@@ -95,7 +95,7 @@ export default {
           {
             name: this.$t('layout.default.login'),
             icon: 'mdi-information',
-            to: this.localePath('login')
+            to: this.localePath('login1')
           },
           {
             name: this.$t('layout.default.register'),
